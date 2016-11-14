@@ -1,0 +1,1 @@
+#hash((doc . "Hello world\nGoodbye Stranger\nBreakfast In America\nTake the Long Way Home\nPanama\nHear About It Later\n") (metas . #hasheq((here-path . "/home/daniel/repos/chain/hello.txt.pp"))))
