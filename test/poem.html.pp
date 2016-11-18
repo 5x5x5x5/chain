@@ -3,7 +3,7 @@
 <html>
 <head>
 ◊(define inside 2)
-◊(define edge (inside 2))
+◊(define edge (* inside 4))
 ◊(define color "blue")
 <style type="text/css">
 pre {

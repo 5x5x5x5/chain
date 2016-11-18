@@ -1,0 +1,1 @@
+#hash((doc . "<!DOCTYPE html>\n<html>\n<head>\n\n\n\n<style type=\"text/css\">\npre {\n     margin: 8em;\n     border: 2em solid blue;\n     padding: 2em;\n}\n</style>\n</head>\n<body>\n<pre>\nThe margin is 8em.\nThe border is blue.\nThe padding is 2em.\nThe border is too.\n</pre>\n</body>\n</html>\n") (metas . #hasheq((here-path . "/home/daniel/repos/chain/test/poem.html.pp"))))

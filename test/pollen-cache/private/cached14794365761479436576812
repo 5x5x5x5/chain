@@ -1,0 +1,1 @@
+#hash((doc . "Deep Thought\n============\n\nI am **so** happy to be writing this.\n\n") (metas . #hasheq((here-path . "/home/daniel/repos/chain/test/article.md.pp"))))
